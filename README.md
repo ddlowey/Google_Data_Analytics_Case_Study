@@ -1,2 +1,2 @@
 # Google_Data_Analytics_Case_Study
-Detailed case study created as part of the Google Data Analytics Professional Certificate
+Case study created as part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics), showcasting the data analysis process for a fictional scenario with real raw data. Functioning as a junior data analyst for Bellabeat - a wellness company that specialises in health-related products for women - the goal is to unlock new growth opportunities for the company by analysing smart device fitness data and identifying trends in smart device usage. 
