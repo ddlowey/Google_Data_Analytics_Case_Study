@@ -17,6 +17,7 @@ The analysis follows a classic data analysis approach, consisting of the six pha
 ```
 brew install jupyterlab
 ```
+<br>
 
 **2. Add IRkernel to Jupyter** 
 
@@ -37,11 +38,12 @@ Run the ```ìnstallspec()``` function from the 'IRkernel'-package
 ```
 % IRkernel::installspec()
 ```
+<br>
 
 **3. Add the dataset to Jupyter**
 
-*Note: In order for this to work, you will need a kaggle account. Then go to settings under 'Profile' and create and API token. Finally download the .json-file that provides your username and key.*
-<br></br>
+###### *Note: In order for this to work, you will need a kaggle account. Then go to settings under 'Profile' and create an API token. Finally download the .json-file that provides your username and key.*
+
 Create a notebook in Jupyter and run the following code:
 
 ```
