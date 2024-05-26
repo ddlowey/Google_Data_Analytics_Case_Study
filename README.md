@@ -40,7 +40,21 @@ Run the ```ìnstallspec()``` function from the 'IRkernel'-package
 
 **3. Add the dataset to Jupyter**
 
-Create a notebook in Jupyter
+*Note: In order for this to work, you will need a kaggle account. Then go to settings under 'Profile' and create and API token. Finally download the .json-file that provides your username and key.*
+<br></br>
+Create a notebook in Jupyter and run the following code:
+
+```
+!pip install opendatasets
+
+import opendatasets as od
+```
+
+Copy the URL from the corresponding dataset (here: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)) and download it. Provide the username and key from the .json-file
+
+```
+od.download("https://www.kaggle.com/datasets/arashnic/fitbit")
+``` 
 
 # License
 
