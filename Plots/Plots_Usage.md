@@ -26,12 +26,12 @@
 <img width="650" alt="UsageTime" src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/0a27ea35-3099-4322-9e90-024a352112e2">
 
 # 4.1.11
-<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/9b4cb8c2-c39f-4288-86c5-eb18ab8b5474" width="700">
+<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/9b4cb8c2-c39f-4288-86c5-eb18ab8b5474" width="650">
 <br></br>
-<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/68256b4a-ad38-44a0-9c29-e4ce2cfb4bb4" width="700">
+<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/68256b4a-ad38-44a0-9c29-e4ce2cfb4bb4" width="650">
 <br></br>
-<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/4439270e-3617-4629-bf04-7b5ca0a28208" width="700">
+<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/4439270e-3617-4629-bf04-7b5ca0a28208" width="650">
 
 # 4.1.12
-<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/01788bf0-c380-423b-ad74-c05c2776802e" width="700">
+<img src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/01788bf0-c380-423b-ad74-c05c2776802e" width="650">
 <img width="650" alt="RelativeUsage" src="https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/bf278fcd-8504-4d49-8a71-78d14184b962">
