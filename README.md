@@ -8,14 +8,20 @@ The analysis follows a classic data analysis approach, consisting of the six pha
 * data wrangling
 * data exploration/data interpretation
 * data visualisation
-* communication of the findings and recommendations for future marketing
+* communication of the findings and recommendations
 
-# Usage
+The complete set of plots is provided in the 'Plots' folder for reference and is organised in accordance with the chapters from the notebook.
+
+![Bellabeat DB 1](https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/7c9cc515-147a-453a-9bee-3257bd5efecd)
+![Bellabeat DB 2](https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/31abf677-a7a2-47d2-a921-3189437e50ba)
+
+
+# Set Up
 
 **1. Install JupyterLab** 
 
 ```
-brew install jupyterlab
+% brew install jupyterlab
 ```
 <br>
 
@@ -52,7 +58,7 @@ Create a notebook in Jupyter and run the following code:
 import opendatasets as od
 ```
 
-Copy the URL from the corresponding dataset (here: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)) and download it. Provide the username and key from the .json-file
+Copy the URL from the corresponding dataset (here: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)) and download it by providing the username and key from the .json-file
 
 ```
 od.download("https://www.kaggle.com/datasets/arashnic/fitbit")
