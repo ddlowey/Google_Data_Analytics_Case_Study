@@ -10,6 +10,38 @@ The analysis follows a classic data analysis approach, consisting of the six pha
 * data visualisation
 * communication of the findings and recommendations for future marketing
 
+# Usage
+
+**1. Install JupyterLab** 
+
+```
+brew install jupyterlab
+```
+
+**2. Add IRkernel to Jupyter** 
+
+In the terminal open the R shell
+
+```
+% R
+```
+
+Install the 'IRkernel'-package 
+
+```
+% install.packages("IRkernel")
+```
+
+Run the ```ìnstallspec()``` function from the 'IRkernel'-package
+
+```
+% IRkernel::installspec()
+```
+
+**3. Add the dataset to Jupyter**
+
+Create a notebook in Jupyter
+
 # License
 
 **CC BY-NC 4.0**
