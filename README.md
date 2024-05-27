@@ -15,7 +15,7 @@ The analysis follows a classic data analysis approach, consisting of the six pha
 
 # Notes
 
-The tool of choice for this case study is R. The notebook is written with IRkernel in JupyterLab. It consists of two main elements: the markdown that is used to establish the setting, provide explanations and communicate findings, as well as the code that is necessary to perform each step of the analysis. For easier reference the notebook has been divided into different chapters and subchapters by numerical order (see the table of contents at the beginning of the notebook). All metadata, including cell outputs, has been stripped off via ```% nbstripout```. The complete set of plots is provided in the 'Plots' folder for reference and is organised in accordance with the chapters from the notebook.
+The tool of choice for this case study is R. The notebook is written with IRkernel in JupyterLab. It consists of two main elements: the markdown that is used to establish the setting, provide explanations and communicate findings, as well as the code that is necessary to perform each step of the analysis. For easier reference the notebook has been divided into different chapters and subchapters by numerical order (see the table of contents at the beginning of the notebook). All metadata, including cell outputs, has been stripped off via ```$ nbstripout```. The complete set of plots is provided in the 'Plots' folder for reference and is organised in accordance with the chapters from the notebook.
 
 Finally, please note that parts of the notebook, such as extractors (e.g. $) or structural elements, may not be rendered properly on GitHub.
 
@@ -24,7 +24,7 @@ Finally, please note that parts of the notebook, such as extractors (e.g. $) or 
 **1. Install JupyterLab** 
 
 ```
-% brew install jupyterlab
+$ brew install jupyterlab
 ```
 <br>
 
@@ -33,19 +33,19 @@ Finally, please note that parts of the notebook, such as extractors (e.g. $) or 
 In the terminal open the R shell
 
 ```
-% R
+$ R
 ```
 
 Install the 'IRkernel'-package 
 
 ```
-% install.packages("IRkernel")
+> install.packages("IRkernel")
 ```
 
 Run the ```ìnstallspec()``` function from the 'IRkernel'-package
 
 ```
-% IRkernel::installspec()
+> IRkernel::installspec()
 ```
 <br>
 
