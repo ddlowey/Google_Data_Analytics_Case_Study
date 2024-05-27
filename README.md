@@ -10,11 +10,14 @@ The analysis follows a classic data analysis approach, consisting of the six pha
 * data visualisation
 * communication of the findings and recommendations
 
-The complete set of plots is provided in the 'Plots' folder for reference and is organised in accordance with the chapters from the notebook.
-
 ![Bellabeat DB 1](https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/7c9cc515-147a-453a-9bee-3257bd5efecd)
 ![Bellabeat DB 2](https://github.com/ddlowey/Google_Data_Analytics_Case_Study/assets/169537418/31abf677-a7a2-47d2-a921-3189437e50ba)
 
+# Notes
+
+The tool of choice for this case study is R. The notebook is written with IRkernel in JupyterLab. It consists of two main elements: the markdown that is used to establish the setting, provide explanations and communicate findings, as well as the code that is necessary to perform each step of the analysis. For easier reference the notebook has been divided into different chapters and subchapters by numerical order (see the table of contents at the beginning of the notebook). All metadata, including cell outputs, has been stripped off via ```% nbstripout```. The complete set of plots is provided in the 'Plots' folder for reference and is organised in accordance with the chapters from the notebook.
+
+Finally, please note that parts of the notebook, such as extractors (e.g. $) or structural elements, may not be rendered properly on GitHub.
 
 # Set Up
 
